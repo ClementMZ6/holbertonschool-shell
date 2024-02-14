@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -R julien@ubuntu:/tmp/h$ *.js
+rm -R /tmp/h$ *.js
